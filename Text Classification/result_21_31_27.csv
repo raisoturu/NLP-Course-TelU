@@ -1,0 +1,5 @@
+,0
+feature,_wo_lemmatization
+classifier,Logistic Regression
+base_score,0.9401197604790419
+classifier_score,0.9461077844311377

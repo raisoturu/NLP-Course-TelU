@@ -1,0 +1,5 @@
+,0
+feature,_base_500
+classifier,Logistic Regression
+base_score,0.9550898203592815
+classifier_score,0.9580838323353293

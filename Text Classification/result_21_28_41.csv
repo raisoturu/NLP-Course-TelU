@@ -1,0 +1,5 @@
+,0
+feature,_no_stopwords
+classifier,Logistic Regression
+base_score,0.9221556886227545
+classifier_score,0.9311377245508982

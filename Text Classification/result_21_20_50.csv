@@ -1,0 +1,5 @@
+,0
+classifier,Support Vector Machines
+base_score,0.9401197604790419
+classifier_score,0.9281437125748503
+param_grid = {'probability': [True], 'kernel': ['poly'], 'gamma': [10], 'degree': [4], 'C': [0.01]}

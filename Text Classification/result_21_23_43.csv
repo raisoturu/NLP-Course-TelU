@@ -1,0 +1,5 @@
+,0
+classifier,Random Forest
+base_score,0.9401197604790419
+classifier_score,0.9341317365269461
+param_grid = {'n_estimators': [600], 'min_samples_split': [10], 'min_samples_leaf': [1], 'max_features': ['sqrt'], 'max_depth': [100], 'bootstrap': [False]}
